@@ -1,5 +1,5 @@
 """
-Main page: Recommend Products
+Main page: Recommend Products for a specific customer.
 """
 
 import pandas as pd
@@ -46,7 +46,6 @@ def page():
     
     customer_id = SOLDTO_IX[customer]
     avail_items = utils.load_salesorg_items(org)
-    print("OG",len(avail_items))
     avail_items = avail_items.intersection(MATERIAL_IX.index)
 
     # Parameters for the recommendations.
