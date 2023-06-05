@@ -1,5 +1,12 @@
 """
 Page 2: Recommend products for new customer 
+
+Users can select the sale organization, country, and similar customers for a new customer.
+Based on these inputs, the code generates personalized product recommendations, 
+considering factors such as previously purchased products
+
+Users have the option to download them as an Excel file.
+
 """
 
 import streamlit as st
