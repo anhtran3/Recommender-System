@@ -16,9 +16,17 @@ To use the Recommender System, please follow these steps:
 
 ## File Structure
 The project's file structure is organized as follows:
+- pages/                     (directory containing Streamlit pages)
+  - `01_Similar_Materials.py`                 (Streamlit page 1)
+  - `02_New_Customer.py`                 (Streamlit page 2)
+  - `03_Target_Customer.py`                 (Streamlit page 3)
+
+Once the Recommender System interface is running, you can navigate through the different pages within the Streamlit interface. Each page represents a specific functionality, such as customer information input, product recommendations, or system settings. Use the interface to input customer information, explore product recommendations, and customize the system according to your preferences.
+
+- `README.md`                  (project README file)
+
 - `data`                      (directory containing data files)
 - `utils.py`                   (utility functions used in multiple pages of an application)
-- `README.md`                  (project README file)
 - `Recommend_Products.py`      (main script to run the Recommender System)
 
 ## Dependencies
