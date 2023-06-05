@@ -3,7 +3,6 @@ Page 1: Find similar materials to selected materials
 
 The 01_Similar_Materials.py page allows users to discover similar materials based on a selected product. 
 It provides an intuitive interface where users can input a product and receive recommendations for similar materials
-
 """
 
 import pandas as pd
