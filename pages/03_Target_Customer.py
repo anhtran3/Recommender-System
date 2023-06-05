@@ -1,5 +1,7 @@
 """
 Page 3: Find target customers for a selected products
+The interface allows users to choose a sales organization and select specific materials. 
+Based on these inputs, the code generates a table of target customers who are interested in the selected products.
 """
 import streamlit as st
 import pandas as pd
