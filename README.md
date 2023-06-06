@@ -1,6 +1,6 @@
 # Recommender System
 **By Anh Tran**
-
+![alt text](applsci-10-05510-g001.webp)
 This project focuses on developing a Recommender System that identifies relationships between customers and suggests a list of products that a specific customer may purchase, whether it's their first-time purchase or a repurchase.
 
 ## Project Overview
