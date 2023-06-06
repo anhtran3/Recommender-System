@@ -1,7 +1,8 @@
 # Product Recommender System
+This project focuses on developing a Recommender System that identifies relationships between customers and suggests a list of products that a specific customer may purchase, whether it's their first-time purchase or a repurchase.
 **By Anh Tran**
 ![alt text](applsci-10-05510-g001.webp)
-This project focuses on developing a Recommender System that identifies relationships between customers and suggests a list of products that a specific customer may purchase, whether it's their first-time purchase or a repurchase.
+
 
 ## Project Overview
 The Recommender System is primarily built using the Recommender Base from the Implicit package and Streamlit. The project leverages these technologies to provide an intuitive and user-friendly interface for users to interact with the system.
