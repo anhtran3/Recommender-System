@@ -1,5 +1,5 @@
 # Product Recommender System
-This project focuses on developing a Recommender System that identifies relationships between customers and suggests a list of products that a specific customer may purchase, whether it's their first-time purchase or a repurchase.
+This project focuses on developing a Recommender System that identifies relationships among customers and suggests a list of products that a specific customer may purchase, whether it's their first-time purchase or a repurchase.
 
 ![alt text](applsci-10-05510-g001.webp)
 
